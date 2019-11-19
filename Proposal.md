@@ -16,8 +16,8 @@ As for the general program flow, the user will first needs to make reservation. 
 
 ---
 ## USE CASE DIAGRAM
-![Use Case Diagram for Hotel Room Reservtion](https://drive.google.com/uc?export=view&id=1uJcq6RWee2MnAPohO6bH2dIrYyMvvDFt)
+![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1uJcq6RWee2MnAPohO6bH2dIrYyMvvDFt)
 
 ---
 ## CLASS DIAGRAM
-![Use Case Diagram for Hotel Room Reservtion](https://drive.google.com/uc?export=view&id=13JTaoK1a0BqSJ0-F9E0G-V5Uw4L7n9Vd)
+![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=13JTaoK1a0BqSJ0-F9E0G-V5Uw4L7n9Vd)
