@@ -20,4 +20,4 @@ As for the general program flow, the user will first needs to make reservation. 
 
 ---
 ## CLASS DIAGRAM
-![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=13JTaoK1a0BqSJ0-F9E0G-V5Uw4L7n9Vd)
+![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1SfuRnQ5rHTldZHgNdKEzgrv2VmVh8Que)
