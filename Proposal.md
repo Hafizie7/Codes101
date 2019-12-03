@@ -15,9 +15,17 @@ Prior to the project name, the program will help the user make hotel room reserv
 As for the general program flow, the user will first needs to make reservation. Then, the user will choose the room types and number of nights of stay. The program will check for the availability and returns the corresponding room number. After the user satisfied with the chosen room, the program will prompt the payment method the user wish to pay with. Finally, the system will print out the receipt which contains the reservation details as well as reservation ID.
 
 ---
-## USE CASE DIAGRAM
+## PART 1: SYSTEM CLASS DESIGN
+### USE CASE DIAGRAM
 ![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1uJcq6RWee2MnAPohO6bH2dIrYyMvvDFt)
+### CLASS DIAGRAM
+![Class Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1SfuRnQ5rHTldZHgNdKEzgrv2VmVh8Que)
 
 ---
-## CLASS DIAGRAM
-![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1SfuRnQ5rHTldZHgNdKEzgrv2VmVh8Que)
+## PART 2: DATABASE DESIGN
+### ATTRIBUTE IDENTIFICATION
+![Attribute Identification for Database Design](https://drive.google.com/uc?export=view&id=159mNbYOjgNDZKeK91AfMuTOR1HVdN7cl)
+### RELATIONAL DATABASE MANAGEMENT SYSTEM DIAGRAM
+![RDBMS for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1iWxHjgkprdaf_9FCWJ78JSiay-YfgJ1H)
+
+---
