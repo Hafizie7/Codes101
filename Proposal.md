@@ -32,5 +32,5 @@ As for the general program flow, the user will first needs to make reservation. 
 ### PROPOSED USER INTERFACE
 ![Proposed User Interface for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1vrdwQ4IK5bPoMIlEk-358e1AWDQHRb3A)
 ### DJANGO DATABASE LINK
-User: 
-Admin: 
+User: [http://127.0.0.1.8000/Reservations](http://127.0.0.1.8000/Reservations)
+Admin: [http://127.0.0.1.8000/admin](http://127.0.0.1.8000/admin)
