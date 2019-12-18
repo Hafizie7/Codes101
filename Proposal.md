@@ -31,3 +31,6 @@ As for the general program flow, the user will first needs to make reservation. 
 ## PART 3: USER INTERFACE
 ### PROPOSED USER INTERFACE
 ![Proposed User Interface for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1vrdwQ4IK5bPoMIlEk-358e1AWDQHRb3A)
+### DJANGO DATABASE LINK
+User: 
+Admin: 
