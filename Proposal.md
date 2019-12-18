@@ -17,10 +17,9 @@ As for the general program flow, the user will first needs to make reservation. 
 ---
 ## PART 1: SYSTEM CLASS DESIGN
 ### USE CASE DIAGRAM
-![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1uJcq6RWee2MnAPohO6bH2dIrYyMvvDFt)
+![Use Case Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1vHQ4WfGIVknhkdfGyFFKyplR0XFOTo-S)
 ### CLASS DIAGRAM
 ![Class Diagram for Hotel Room Reservation](https://drive.google.com/uc?export=view&id=1SfuRnQ5rHTldZHgNdKEzgrv2VmVh8Que)
-
 ---
 ## PART 2: DATABASE DESIGN
 ### ATTRIBUTE IDENTIFICATION
