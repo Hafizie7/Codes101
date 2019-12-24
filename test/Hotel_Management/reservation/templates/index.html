@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<br>
+
+  <div class="add_buttons">
+
+    <div class="button-group">
+      <a href="{% url 'display_SingleBed' %}" class="btn btn-primary btn-md btn-trim" role="button">SingleBed</a>
+      <a href="#" class="btn btn-warning btn-sm btn-pad" role="button"> +</a>
+
+      <a href="{% url 'display_Double_bed' %}" class="btn btn-primary btn-md btn-trim" role="button"> Double_bed</a>
+      <a href="#" class="btn btn-warning btn-sm btn-pad" role="button"> +</a>
+
+      <a href="{% url 'display_Customer' %}" class="btn btn-primary btn-md btn-trim" role="button"> Customer</a>
+      <a href="#" class="btn btn-warning btn-sm btn-pad" role="button"> +</a>
+
+    </div>
+  </div>
+  <div>
+
+      <h4>Currently Viewing {{ header }}</h4>
+
+  </div>
+
+<br>
+  <table class="table table-hover">
+    <thead>
+      <tr>
+        <th>Id</th>
+        <th>No</th>
+        <th>Price</th>
+        <th>Status</th>
+        <th>Issues</th>
+        <th></th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for item in items %}
+      <tr>
+              <td>{{ item.pk }}
+              <td>{{ item.no }}</td>
+              <td>RM {{ item.price }}</td>
+              <td>{{ item.status }}</td>
+              <td>{{ item.issues }}</td>
+
+      <tr>
+      {% endfor %}
+
+    </tbody>
+  </table>
+
+{% endblock %}
